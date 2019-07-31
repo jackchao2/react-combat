@@ -11,7 +11,7 @@ class Empty extends Component {
         }
     }
     render() {
-        return <div style={{width:'100%',height:'100%',textAlign:'center',lineHeight:'500px'}}>购物车空空如也.。。。......</div>
+        return <div style={{width:'100%',height:'100%',textAlign:'center',lineHeight:'500px'}}>购物车空空如也 测试</div>
     }
 }
 
